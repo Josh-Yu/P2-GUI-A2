@@ -1,0 +1,62 @@
+!SESSION 2012-05-08 09:24:49.753 -----------------------------------------------
+eclipse.buildId=M20110210-1200
+java.version=1.6.0_24
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_AU
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.emf.ecore 2 0 2012-05-08 09:26:09.671
+!MESSAGE Both 'org.eclipse.gmf.bridge.trace' and 'org.eclipse.xpand.incremental' register an extension parser for 'trace'
+
+!ENTRY org.eclipse.core.net 1 0 2012-05-08 09:26:16.438
+!MESSAGE System property http.proxyHost is not set but should be proxy.rmit.edu.au.
+
+!ENTRY org.eclipse.core.net 1 0 2012-05-08 09:26:16.485
+!MESSAGE System property http.proxyPort is not set but should be 8080.
+
+!ENTRY org.eclipse.core.net 1 0 2012-05-08 09:26:16.493
+!MESSAGE System property https.proxyHost is not set but should be proxy.rmit.edu.au.
+
+!ENTRY org.eclipse.core.net 1 0 2012-05-08 09:26:16.502
+!MESSAGE System property https.proxyPort is not set but should be 8080.
+
+!ENTRY org.eclipse.core.net 1 0 2012-05-08 09:26:16.512
+!MESSAGE System property https.proxyHost is not set but should be proxy.rmit.edu.au.
+
+!ENTRY org.eclipse.core.net 1 0 2012-05-08 09:26:16.733
+!MESSAGE System property https.proxyPort is not set but should be 8080.
+
+!ENTRY com.android.ide.eclipse.ddms 4 0 2012-05-08 09:26:21.758
+!MESSAGE DDMS files not found: C:\Eclipse\platform-tools\adb.exe C:\Eclipse\tools\hprof-conv.exe C:\Eclipse\tools\traceview.bat 
+!SESSION 2012-05-08 09:26:54.020 -----------------------------------------------
+eclipse.buildId=M20110210-1200
+java.version=1.6.0_24
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_AU
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -data E:\ap2\P2GUIAssignment2 -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.emf.ecore 2 0 2012-05-08 09:26:58.902
+!MESSAGE Both 'org.eclipse.gmf.bridge.trace' and 'org.eclipse.xpand.incremental' register an extension parser for 'trace'
+
+!ENTRY org.eclipse.core.net 1 0 2012-05-08 09:27:01.071
+!MESSAGE System property http.proxyHost is not set but should be proxy.rmit.edu.au.
+
+!ENTRY org.eclipse.core.net 1 0 2012-05-08 09:27:01.104
+!MESSAGE System property http.proxyPort is not set but should be 8080.
+
+!ENTRY org.eclipse.core.net 1 0 2012-05-08 09:27:01.116
+!MESSAGE System property https.proxyHost is not set but should be proxy.rmit.edu.au.
+
+!ENTRY org.eclipse.core.net 1 0 2012-05-08 09:27:01.125
+!MESSAGE System property https.proxyPort is not set but should be 8080.
+
+!ENTRY org.eclipse.core.net 1 0 2012-05-08 09:27:01.134
+!MESSAGE System property https.proxyHost is not set but should be proxy.rmit.edu.au.
+
+!ENTRY org.eclipse.core.net 1 0 2012-05-08 09:27:01.144
+!MESSAGE System property https.proxyPort is not set but should be 8080.
+
+!ENTRY com.android.ide.eclipse.ddms 4 0 2012-05-08 09:27:02.950
+!MESSAGE DDMS files not found: C:\Eclipse\platform-tools\adb.exe C:\Eclipse\tools\hprof-conv.exe C:\Eclipse\tools\traceview.bat 
